@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.square {
+    float: left;
+    width: 66.67px;
+    height: 66.67px;
+    margin-right: -1px;
+    margin-top: -1px;
+    background: #fff;
+    border: 1px solid #999;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+}
+
+.winner{
+    background: lightgreen;
+    float: left;
+    width: 66.67px;
+    height: 66.67px;
+    margin-right: -1px;
+    margin-top: -1px;
+    border: 1px solid #999;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 34px;
+}

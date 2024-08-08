@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.game_box {
+    width: 200px;
+}
+
+.status {
+    margin: 20px;
+    font-weight: 600;
+}
+
+.winner{
+    margin: 20px;
+    font-weight: 600;
+    color: green;
+}
+
+.draw{
+    margin: 20px;
+    font-weight: 600;
+    color: red;
+}
